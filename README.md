@@ -16,7 +16,3 @@
 -------------------------------------------------------------
 三、项目展示
 ============ 
-<img src="iamges/1.png" width="420" height="450">  <img src="iamges/1.png" width="420" height="450">
-<img src="iamges/1.png" width="420" height="450">  <img src="iamges/1.png" width="420" height="450">
-<img src="iamges/1.png" width="420" height="450">  <img src="iamges/1.png" width="420" height="450">
-<img src="iamges/1.png" width="420" height="450">  <img src="iamges/1.png" width="420" height="450">
