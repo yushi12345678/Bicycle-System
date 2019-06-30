@@ -15,4 +15,5 @@
 3.封装的公共机制有JSONP，Axios公司，载入加载，ETABLE，电子表格等
 -------------------------------------------------------------
 三、项目展示
-<img src="iamges/图片1.png" width="420" height="450">
+============
+<img src="iamges/1.png" width="420" height="450">        <img src="iamges/1.png" width="420" height="450">
